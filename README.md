@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm excited to start my journey in the world of so
 ## About Me
 
 - 🎓 Currently pursuing a degree in Computer Engineering and Artificial Intelligence at Thai-Nichi Institute of Technology
-- 💻 My interests include ML and NLP, with a particular focus on ML 
+- 💻 My interests include ML and NLP, with a particular focus on Python 
 - 🌱 Always eager to learn and explore new technologies
 - 📫 You can reach me at ukritghs@gmail.com
 

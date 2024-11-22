@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" height="30" alt="c logo"  />
+  <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" height="30" alt="c logo"  />
 </div>
 
 ###

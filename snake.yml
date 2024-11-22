@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+    - my-first-branch
 
 jobs:
   generate:
